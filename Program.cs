@@ -14,3 +14,4 @@ if( opcaoSuco == "L"){
     var qntT = Int32.Parse(Console.ReadLine());
 }
 
+//não consegui finalizar, tive um pouco de dificuldade pra iniciar
