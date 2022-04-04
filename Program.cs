@@ -39,5 +39,3 @@ if( opcaoSuco == "L"){
         Console.WriteLine("Total a Pagar:" + totalT);
     }
 }
-
-//não consegui finalizar, tive um pouco de dificuldade pra iniciar
